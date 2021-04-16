@@ -100,3 +100,18 @@ Now submit the pull request.
 <img style="float: right;" src="./images/open-pr.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+
+# 🌟 Contributors
+
+### Thanks goes to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		<td>
+      <a href="https://github.com/CodeTrophs/MakeFirstPR/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=CodeTrophs/MakeFirstPR" />
+      </a>
+		</td>
+	</tr>
+</table>
