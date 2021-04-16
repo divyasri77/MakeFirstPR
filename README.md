@@ -12,7 +12,7 @@
 
 ### Before you start READ [Instructions](./instructions.md)
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+The aim of this project is to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
@@ -58,11 +58,11 @@ For example:
 git checkout -b aryasoni98
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(The name of the branch need not have the word _add_ in it, but it's reasonable to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+If you go to the project directory and execute the command `git status`, it will show all the changes you have made.
 
 Add those changes to the branch you just created using the `git add` command:
 
